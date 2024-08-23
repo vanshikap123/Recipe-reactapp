@@ -1,0 +1,2 @@
+https://api.edamam.com/search?q='pizza'&app_id=76cfd5b4&app_key=551837b5296dc876651b6a4f68acb073
+application id = 

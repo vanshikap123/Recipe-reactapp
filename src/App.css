@@ -1,0 +1,18 @@
+ .box .from {
+     display: flex;
+     flex-direction: column;
+     background-color: aqua;
+ }
+ 
+ .box2 {
+     background: url('https://i.pinimg.com/736x/05/9d/c9/059dc9e281db90d88baa482c94597d8e--baking-cakes-kitchen-items.jpg');
+     width: 100%;
+     height: 50vh;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+ .heading {
+     font-size: 60px;
+     color: #000;
+ }
